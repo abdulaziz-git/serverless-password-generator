@@ -1,0 +1,4 @@
+name = "password-generator"
+main = "src/index.js"
+compatibility_date = "2022-09-06"
+node_compat = true
